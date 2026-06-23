@@ -98,7 +98,7 @@ su - sonar -c "/opt/sonarqube/bin/linux-x86-64/sonar.sh start"
 
 echo '>>> SonarQube installed — http://<IP>:9000 (admin/admin)'
 
-# ── Step 6: Install Nexus (Port 8081) ─
+# ── Step 6: Install Nexus (Port 8081) 
 echo '>>> Installing Nexus...'
 
 # Create nexus user
